@@ -19,7 +19,7 @@ void menu(){
 
 
 
-  cout<<" WELCOME TO OUR GROUP PROJECT "<<endl;
+  cout<<" WELCOME TO My PROJECT "<<endl;
 	cout<<"************ MENY ************"<<endl;
 	cout<<" 0. Cancel "<< endl;
 	cout<<"1. Purchase a ticket "<< endl;
@@ -60,7 +60,7 @@ void menu(){
 					 zone_from = 1;
 					 break;
 
-				case 2 :
+			case 2 :
 					 station_name_from = "Majorstuen";
 					 zone_from = 1;
 					 break;
@@ -175,7 +175,7 @@ void menu(){
 
 
 
-    cout<<" WELCOME TO OUR GROUP PROJECT "<<endl;
+    cout<<" WELCOME TO My PROJECT "<<endl;
     cout<<"************ MENY ************"<<endl;
     cout<<" 0. Cancel "<< endl;
     cout<<"1. Purchase a ticket "<< endl;
@@ -191,7 +191,7 @@ void menu(){
 
 
 int main() {
-std::cout << "WITHOUT THE OTHER METHODS ONLY MENU" << '\n';
+std::cout <<  << '\n';
   menu();
 
 
