@@ -28,7 +28,7 @@ int main(){
   int age = get_age();
   printf("name :%s ",name);
   printf("age: %d\n",age);
-  struct person* Nablis = person_init();
+  struct person* MIC = person_init();
   free(name);
 
   return 0;
