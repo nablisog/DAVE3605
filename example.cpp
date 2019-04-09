@@ -19,9 +19,9 @@ void menu(){
 
 
 
-  cout<<" WELCOME TO My PROJECT "<<endl;
+  cout<<"  WELCOME "<<endl;
 	cout<<"************ MENY ************"<<endl;
-	cout<<" 0. Cancel "<< endl;
+	cout<<" 0. Exit "<< endl;
 	cout<<"1. Purchase a ticket "<< endl;
 
 
@@ -175,9 +175,9 @@ void menu(){
 
 
 
-    cout<<" WELCOME TO My PROJECT "<<endl;
+    cout<<" WELCOME  "<<endl;
     cout<<"************ MENY ************"<<endl;
-    cout<<" 0. Cancel "<< endl;
+    cout<<" 0. Exit "<< endl;
     cout<<"1. Purchase a ticket "<< endl;
 
 
