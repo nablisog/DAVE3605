@@ -1,0 +1,8 @@
+*******************************
+********* Ticket *********
+Type: -----Single Ticket----- 
+Civil Status: Soldier 
+From: Oslo
+To: Aurskog
+Price: 162 kr
+*******************************
