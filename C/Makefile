@@ -1,7 +1,7 @@
 CC= gcc
-CFLAGS= -Wall -Wextra -Wpedantic -std=c99 -g
+CFLAGS= -Wall -Wextra -Wpedantic -std=c99 -g       
 
-oppgave1: 
-	$(CC) $(CFLAG) oppgave1.c -o oppgave1
+oblig: 
+	$(CC) $(CFLAG) oblig1_tests.c oppgave2.c -o  oblig1_tests
 clean:
-	rm -f oppgave1
+	rm -f oppgave1 oblig1_tests
